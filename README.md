@@ -1,2 +1,1 @@
-# estudo_c
-Repositório de estudo da linguagem C.
+<h2>Repositório exclusivo para estudo e exercícios da linguagem de programação C</h2>
