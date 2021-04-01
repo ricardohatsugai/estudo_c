@@ -1,0 +1,9 @@
+  01 de Abril de 2021.
+
+  Preparação do ambiente linux e compilador.
+
+  - Instalação das ferramentas necessárias para o ambiente.
+  O editor de texto será o Vim, o qual já estou usando neste momento.
+  O compilador será o GCC.
+
+  O arquivo de confirguração é .vimrc nesta pasta  
