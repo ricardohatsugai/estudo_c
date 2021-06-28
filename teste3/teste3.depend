@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1624754079 source:/opt/lampp/htdocs/estudo_c/teste3/main.c
+	<stdio.h>
+	<stdlib.h>
+
